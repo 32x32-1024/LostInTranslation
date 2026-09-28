@@ -58,10 +58,11 @@ public class CanadaTranslator implements Translator {
             return "加拿大";
         }
         else if ("es".equals(languageCode)) {
-            return "Canadá"
+            return "Canadá";
         }
         else if ("kr".equals(languageCode)) {
-            return "Canadá"
+            return "캐나다";
+        }
         else {
             return null;
         }
